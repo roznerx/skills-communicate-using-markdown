@@ -25,3 +25,8 @@ function silentHillTwo() {
 silentHillTwo();
 
 ```
+### Making a list
+
+- [ ] Boot up my PS2
+- [ ] Insert the Silent Hill 2 DVD
+- [ ] Enter the world of Survival Horror
